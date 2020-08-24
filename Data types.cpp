@@ -2,9 +2,9 @@
 
 using namespace std;
 
-int main()
+int Datatypes()
 {
-    cout << "    /|" << endl;
+    cout << "Er det her den bliver kørt fra" << endl;
     cout << "   / |" << endl;
     cout << "  /  |" << endl;
     cout << " /   |" << endl;
