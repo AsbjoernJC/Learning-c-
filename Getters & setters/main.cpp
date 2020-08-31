@@ -22,6 +22,7 @@ class Movie{
             } else {
                 rating = "NR";
             }
+
         }
 
         string getRating(){
