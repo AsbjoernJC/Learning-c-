@@ -8,7 +8,7 @@ class Book {    //syntax class Classname {public: };. A class is a blueprint of 
         string author;
         int pages;
 
-        Book(){ //it can be beneficial to create a constructor function where the closed parenthesis is passed no arguments. So it is possible to create a class with no args
+        Book(){ //it can be beneficial to create a constructor function where the closed parenthesis is passed no arguments. So it is possible to create a class with no args.
             title = "No title";
             author = "No author";
             pages = 0;
